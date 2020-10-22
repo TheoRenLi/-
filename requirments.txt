@@ -1,0 +1,9 @@
+shapely
+imgaug
+pyclipper
+lmdb
+tqdm
+numpy
+paddlepaddle==2.0.0b0
+pandas
+openpyxl
