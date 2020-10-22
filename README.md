@@ -56,7 +56,7 @@
 python detector.py ./pics/test.jpg
 ```
 
-<img src=".\pics\test.jpg" style="zoom: 33%;" align="center"/>
+<img src="https://github.com/TheoRenLi/Corporate-named-entity-recognition/blob/main/pics/test.jpg" style="zoom: 33%;" align="center"/>
 
 ​		PaddleOCR识别结果：
 
