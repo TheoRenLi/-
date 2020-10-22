@@ -60,11 +60,11 @@ python detector.py ./pics/test.jpg
 
 ​		PaddleOCR识别结果：
 
-<img src=".\pics\ocr_result.jpg" style="zoom:50%;" align="center"/>
+<img src="https://github.com/TheoRenLi/Corporate-named-entity-recognition/blob/main/pics/ocr_result.jpg" style="zoom:50%;" align="center"/>
 
 ​		店铺名称识别结果：
 
-<img src = "./pics/test_result.png" align="center">
+<img src = "https://github.com/TheoRenLi/Corporate-named-entity-recognition/blob/main/pics/test_result.png" align="center">
 
 ## Reference
 
